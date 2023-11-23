@@ -1,6 +1,6 @@
 module github.com/MSyabdewa/Kelompok5_FinalProject4
 
-go 1.21.4
+go 1.21
 
 require (
 	github.com/bytedance/sonic v1.10.2 // indirect
