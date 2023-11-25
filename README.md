@@ -1,5 +1,8 @@
 # glng_ks08_Kelompok5_final_Project_4
 
+Link domain deployment :
+http://kelompok5finalproject4-production.up.railway.app/
+
 //Anggota :
 
 Aden Hidayatuloh (GLNG-KS08-011)
